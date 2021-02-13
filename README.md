@@ -8,6 +8,12 @@ Diagram: https://github.com/mchughj20202/Azure-Project-JM/blob/main/Azure%20netw
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the yml file may be used to install only certain pieces of it, such as Filebeat.
 
+Playbooks:https://github.com/mchughj20202/Azure-Project-JM/blob/main/elk-playbook.yml
+https://github.com/mchughj20202/Azure-Project-JM/blob/main/metricbeat-playbook.yml
+https://github.com/mchughj20202/Azure-Project-JM/blob/main/filebeat-playbook.yml
+https://github.com/mchughj20202/Azure-Project-JM/blob/main/webservers-playbook.yml
+
+
 The playbook files elk-playbook.yml and filebeat-playbook.yml will both be needed to create a successful ELK stack.
 
 This document contains the following details:
